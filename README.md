@@ -1,3 +1,3 @@
 mysite
 ======
-xxx
+README
